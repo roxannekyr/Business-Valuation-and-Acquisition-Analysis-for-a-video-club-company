@@ -1,38 +1,66 @@
 <h1>Business Valuation and Acquisition Analysis for a Video Club Company</h1>
 
 <h2>Description</h2>
-This project focused on developing a critical Global Sales and Logistics KPI Dashboard using the advanced Business Intelligence features within Microsoft Excel (Power Query and Power Pivot). The objective was to provide the management team of a global electronics retailer with a dynamic tool to track core performance metrics.
+This project focused on leveraging MySQL to perform comprehensive business analysis on the Maven Movies dataset, directly addressing a strategic decision—the potential sale of the business.
 
-Methodology: Despite the limitation to raw CSV files (sales, stores, products, customers), I implemented a robust BI process entirely within Excel:
+Methodology: I used advanced SQL querying skills to extract, join, and analyze data across multiple tables (e.g., rentals, films, customers, inventory) to answer specific questions posed by a potential restaurant/bar owner acquirer. The analysis was designed to provide a deep, data-driven understanding of the rental business, including:
 
-Data Connection and Transformation (Power Query): Imported the folder of raw CSV data and used Power Query (M Language) to clean, merge, and transform the data, handling dirty entries and normalizing fields.
-Relational Data Modeling (Power Pivot): Built a scalable Star Schema data model in Power Pivot, defining the relationships between the various dimension and fact tables, which optimized data analysis speed.
-KPI Calculation (DAX): Created sophisticated calculated columns and DAX measures to define the required KPIs, including Total Revenue, Average Order Value (AOV), and the crucial Average Delivery Time.
-Interactive Dashboard Design: Designed a professional, interactive dashboard using pivot tables, pivot charts, and slicers, enabling management to filter data by store, product, and time period for granular sales and logistics monitoring.
-Impact: The final dashboard empowered the client to move beyond static spreadsheets, gaining immediate, centralized visibility into critical Sales & Logistics performance, thereby enabling faster decision-making to optimize the supply chain and revenue streams.
-<br />
-
+Key Performance Indicators (KPIs): Identifying top-performing films, busiest rental periods, and inventory utilization.
+Customer Segmentation: Analyzing customer lifetime value and rental behavior patterns.
+Operational Insights: Determining optimal store locations, staff performance, and inventory needs.
+Impact: The detailed, data-backed answers provided critical support for the valuation and due diligence process. The analysis successfully translated complex database information into clear, actionable business insights, enabling an informed decision regarding the potential acquisition.
 
 <h2>Tools used in this project:</h2>
 
-- <b>Microsoft Excel</b> 
-- <b>Power Query</b>
-- <b>DAX</b>
+- <b>SQL</b> 
+- <b>MySQL</b>
 
-<h2>Excel Dashboard :</h2>
+<h2>SQL Queries:</h2>
 
-KPI Summary: <br/>
-<img src="https://i.imgur.com/DDsu6cg.png" height="80%" width="80%" alt="AdventureWorks Executive Sales Dashboard"/>
+
+SQL Queries: <br/>
+<img src="https://i.imgur.com/rKerBWt.png" height="80%" width="80%" alt="AdventureWorks Executive Sales Dashboard"/>
 <br />
 <br />
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<img src="https://i.imgur.com/UWtujNz.png" height="80%" width="80%" alt="AdventureWorks Executive Sales Dashboard"/>
+<br />
+<br />
+
+<img src="https://i.imgur.com/Etu204K.png" height="80%" width="80%" alt="AdventureWorks Executive Sales Dashboard"/>
+<br />
+<br />
+
+<img src="https://i.imgur.com/oenbETx.png" height="80%" width="80%" alt="AdventureWorks Executive Sales Dashboard"/>
+<br />
+<br />
+
+<img src="https://i.imgur.com/FdI51iv.png" height="80%" width="80%" alt="AdventureWorks Executive Sales Dashboard"/>
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
