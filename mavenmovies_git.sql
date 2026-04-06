@@ -1,4 +1,5 @@
 -- PROJECT 
+
 -- THE SITUATION: You and your business partner were recently approached by another local business owner who is interested
 -- in purchasing Maven movies. He primarily owns restaurants and bars, so he has a lot of questions for you
 -- about your business and the rental business in general. His offer seems very generous, so you are going to
